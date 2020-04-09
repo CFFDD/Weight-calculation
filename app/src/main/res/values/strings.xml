@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="page1_text">标准身高计算器</string>
+    <string name="page2_text">请输入你的身高</string>
+    <string name="page3_text">请选择你的性别</string>
+    <string name="page4_sex">男</string>
+    <string name="page5_sex">女</string>
+    <string name="page6_button">计算</string>
+    <string name="page7_autofillHints_1"> </string>
+
+    //<string name="weight">%1$s</string>
+
+</resources>
